@@ -30,13 +30,13 @@ blockquote, q {
   color: #777; 
 }
 
-blockquote:before, blockquote:after {
+/* blockquote:before, blockquote:after {
   content: '';
   content: none; }
 
 q:before, q:after {
   content: '';
-  content: none; }
+  content: none; } */
 
 
 
@@ -994,18 +994,18 @@ strong {
 em {
   font-style: italic; }
 
-blockquote {
+/* blockquote {
   margin: 1em 0;
   padding: 1em 0;
   background: #f8f8f8;
   border: 1px solid #eeeeee;
   border-radius: 3px;
-  /*font-family: "Roboto Slab", serif;*/
+  font-family: "Roboto Slab", serif;
   font-family:  "Raleway",Verdana,sans-serif,宋体, serif, "Droid Serif", Helvetica Neue, Helvetica, Arial;
   font-weight: lighter;
   font-style: italic;
   font-size: 1.0em;
-  /*text-align: center;*/ }
+  text-align: center; } */
   blockquote p:last-child {
     margin-bottom: 0; }
 
